@@ -1,3 +1,3 @@
 # Flask_Image_Summary_Using_ML
 
-<img src="/screenshot/1.jpg" width="225"/>
+<img src="/screenshot/a1.png" width="225"/>
