@@ -1,5 +1,9 @@
 #  Image Caption Generation Using Flask and Pretrained Deep Learning Algorithm
 
+Pretrained Deep Learning Algorithm?<br>
+RNN or LSTM is use to generate a sequence of words or caption for the image. ImageNet Dataset use<br>
+
+
 
 Step1: Select the Image from your PC <br><br>
 <img src="/screenshot/a1.png" width="600"/> <br>
